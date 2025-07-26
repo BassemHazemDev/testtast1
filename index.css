@@ -1,0 +1,9 @@
+.container{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 200px auto;
+    background-color: brown;
+    animation-duration: 3s;
+    border-radius: 50%;
+}
